@@ -1,0 +1,3 @@
+R5T.D0091.Construction - Construction project for IApplicationConfigurer service..
+
+GOALS:
