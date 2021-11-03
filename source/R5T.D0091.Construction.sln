@@ -5,7 +5,7 @@ VisualStudioVersion = 16.6.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.D0091.Construction", "R5T.D0091.Construction\R5T.D0091.Construction.csproj", "{4E6942A2-0068-4FE4-B1DB-67C4C748EA0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.D0091", "R5T.D0091\R5T.D0091.csproj", "{D6544F4C-8038-4DCD-BF1A-B5BF6401AD7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.D0091.Base", "R5T.D0091.Base\R5T.D0091.Base.csproj", "{D6544F4C-8038-4DCD-BF1A-B5BF6401AD7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
